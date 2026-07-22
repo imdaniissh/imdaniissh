@@ -14,7 +14,8 @@ Building intelligent solutions with data.
 > "Turning data into decisions."
 ## 📊 GitHub Stats
 
-![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imdaniissh&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imdaniissh&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imdaniissh&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=imdaniissh&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=imdaniissh&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imdaniissh&layout=compact&theme=tokyonight&hide_border=true)

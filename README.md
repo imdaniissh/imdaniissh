@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**imdaniissh/imdaniissh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dan 👋
 
-Here are some ideas to get you started:
+📊 Making data tell stories it never wanted to tell.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about Data Science, Machine Learning, and AI.
+
+## 🛠️ Tech Stack
+🐍 Python • 🗄️ SQL • 📊 Pandas • 🔢 NumPy • 🤖 Scikit-learn • 🌿 Git • GitHub
+
+## 🎯 Focus
+Building intelligent solutions with data.
+
+> "Turning data into decisions."

@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="l.png" alt="Banner" width="100%">
+</p>
 # Hi, I'm Dan 👋
 
 📊 Making data tell stories it never wanted to tell.

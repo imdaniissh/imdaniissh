@@ -6,12 +6,10 @@
 ## 🚀 About Me
 
 - 🎓 **Final Year B.Tech (Electrical Engineering)** @ **Jamia Millia Islamia**
-- 🤖 **Data Science | Artificial Intelligence | Machine Learning**
-- 💻 **Python | SQL | C++ | Git | GitHub**
-- 📊 **Data Analysis | Data Visualization | Machine Learning**
-- 🧠 **Data Structures & Algorithms | Problem Solving**
-- 🚀 **Building Real-World Data Science & AI Projects**
-- 🎯 **Focused on Developing Scalable AI Solutions & Data-Driven Applications**
+- 🤖 **Data Science | AI | Machine Learning**
+- 💻 **Python | SQL | C++**
+- 🧠 **Solved 100+ DSA Problems**
+- 🚀 **Building AI & Data Science Projects**
 
 ---
 

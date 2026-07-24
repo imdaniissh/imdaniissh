@@ -37,12 +37,7 @@
 **Building Intelligent Solutions with Data.**
 > "Turning data into decisions."
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imdaniissh&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://streak-stats.demolab.com?user=imdaniissh&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdaniissh&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=imdaniissh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

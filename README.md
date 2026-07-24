@@ -1,11 +1,16 @@
 <p align="center">
   <img src="github.profile.png" alt="Banner" width="100%" height="180">
 </p>
-# Hi, I'm Dan 👋
+## 🚀 About Me
 
-📊 Making data tell stories it never wanted to tell.
+- 🎓 Final Year B.Tech Electrical Engineering @ Jamia Millia Islamia
+- 📊 Aspiring Data Scientist | AI & Machine Learning Enthusiast
+- 🐍 Learning Python, SQL, Statistics & Machine Learning
+- 💻 Solving DSA problems in C++ & Python
+- 📈 Building real-world Data Science and AI projects
+- 🌱 Currently exploring Deep Learning & Generative AI
+- 🎯 Goal: Crack a Data Scientist/Data Analyst role in top tech companies
 
-Passionate about Data Science, Machine Learning, and AI.
 
 ## 🛠️ Tech Stack
 🐍 Python • 🗄️ SQL • 📊 Pandas • 🔢 NumPy • 🤖 Scikit-learn • 🌿 Git • GitHub

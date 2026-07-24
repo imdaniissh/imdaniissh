@@ -33,9 +33,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-## 🎯 Focus
-**Building Intelligent Solutions with Data.**
-> "Turning data into decisions."
+
+ ---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

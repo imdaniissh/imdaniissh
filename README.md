@@ -41,8 +41,4 @@
 ![](https://streak-stats.demolab.com/?user=imdaniissh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imdaniissh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>

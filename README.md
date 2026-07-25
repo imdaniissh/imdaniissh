@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Final Year B.Tech (Electrical Engineering)** @ **Jamia Millia Islamia**
+- 🎓 **B.Tech (Electrical Engineering)** @ **Jamia Millia Islamia**
 - 🤖 **Data Science | AI | Machine Learning**
 - 💻 **Python | SQL | C++**
 - 🧠 **Solved 100+ DSA Problems**

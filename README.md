@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github.profile.png" alt="Banner" width="100%">
+  <img src="Hi, I'm Danish Welcome to my Github Profile.gif" alt="Banner" width="100%">
 </p>
 
 ---

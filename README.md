@@ -38,9 +38,10 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-![](https://github-readme-stats.shion.dev/api?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=imdaniissh&theme=dark&hide_border=false)
+  <img src = "
+![](https://github-readme-stats.shion.dev/api?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>"
+<img src = "![](https://streak-stats.demolab.com?user=imdaniissh&theme=dark&hide_border=false)"
 <br> <br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src= "![](https://github-readme-stats.shion.dev/api/top-langs/?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)"
 </p>
 

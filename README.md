@@ -9,7 +9,7 @@
 - 🤖 **Data Science | AI | Machine Learning**
 - 💻 **Python | SQL | C++**
 - 🧠 **Solved 100+ DSA Problems**
-- 🚀 **Building AI & Data Science Projects**
+- 🚀 **Building AI & Data Science Projec**
 
  ---
 

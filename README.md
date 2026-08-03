@@ -1,4 +1,4 @@
-<p align="center">
+<p align="cent">
   <img src="github.gif" alt="Banner" width="100%">
 </p>
 

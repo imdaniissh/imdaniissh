@@ -45,3 +45,5 @@
   <br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
+![snake gif](https://github.com/imdaniissh/imdaniissh/blob/output/github-snake-dark.svg)

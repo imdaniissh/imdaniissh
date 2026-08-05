@@ -38,12 +38,20 @@
 
 # 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
+  <img src="https://github-readme-stats.vercel.app/api?username=imdaniissh&show_icons=true&theme=dark" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=imdaniissh&theme=dark&hide_border=false" />
+
+  <img src="https://streak-stats.demolab.com?user=imdaniissh&theme=dark" />
   <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=imdaniissh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdaniissh&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/imdaniissh/imdaniissh/blob/output/github-snake-dark.svg" />
 </p>
 
 ![snake gif](https://github.com/imdaniissh/imdaniissh/blob/output/github-snake-dark.svg)

@@ -36,22 +36,19 @@
 
  ---
 
-# 📊 GitHub Stats
+
+
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imdaniissh&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imdaniissh&show_icons=true&theme=dark&cache_seconds=1800" />
   <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=imdaniissh&theme=dark" />
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdaniissh&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdaniissh&layout=compact&theme=dark&cache_seconds=1800" />
 </p>
 
-<p align="center">
+
   <img src="https://github.com/imdaniissh/imdaniissh/blob/output/github-snake-dark.svg" />
-</p>
 
-![snake gif](https://github.com/imdaniissh/imdaniissh/blob/output/github-snake-dark.svg)
+
